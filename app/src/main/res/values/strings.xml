@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mines War</string>
+    <string name="restart">Restart</string>
+    <string name="textview">YOU WON !</string>
+</resources>
